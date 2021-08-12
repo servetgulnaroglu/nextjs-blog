@@ -1,1 +1,1 @@
-servetg-blog.vercel.app
+[link]servetg-blog.vercel.app
